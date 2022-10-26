@@ -4,5 +4,6 @@ Release/
 out/
 build.debug/
 build.release/
+build/
 .vs/
 *.vcxproj.user
